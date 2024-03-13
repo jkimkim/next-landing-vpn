@@ -1,12 +1,12 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "name": "LaslesVPN",
-  "short_name": "LaslesVPN",
+  "name": "Inventory App",
+  "short_name": "Inventory",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
-  "theme_color": "#F53838",
-  "description": "LaslesVPN Best VPN For Privacy, Country and Cheapest.",
+  "theme_color": "#1a1a27",
+  "description": "An app to manage your inventory from anywhere",
   "icons": [
     {
       "src": "/favicon/android-icon-36x36.png",

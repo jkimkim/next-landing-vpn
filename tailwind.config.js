@@ -40,6 +40,14 @@ module.exports = {
         400: "#AFB5C0",
         500: "#DDDDDD",
       },
+      blue: {
+        100: "#F2F8FF",
+        500: "#2F80ED",
+      },
+      primary: {
+        500: "#1a1a27",
+        100: "#f8f8f8",
+      },
     },
     extend: {},
   },
